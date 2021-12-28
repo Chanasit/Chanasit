@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working as a Full-Stack Developer, Infrastructure, and DevOps Engineer at [Botnoi Consulting](https://botnoigroup.com/).
-- 🌱 I’m currently learning distributed system, machine learning, network and data engineering.
+- 🌱 I’m currently learning distributed system, blockchain, network and data engineering.
 - 👯 I’m looking to collaborate on large distributed system software.
 
 <!--
